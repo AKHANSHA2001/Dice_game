@@ -1,0 +1,35 @@
+body{
+    background: 
+    linear-gradient(to right, #25f37b,#2d555f);
+}
+.wrapper{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+h1{
+    font-family: 'Wix Madefor Text', sans-serif;
+    margin: 20px;
+    font-size: 6rem;
+    color:rgb(208,214,218);
+}
+h3{
+    padding-top: 30px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 1rem;
+}
+.dice{
+    margin: 0px 50px;
+    text-align: center;
+    display: inline-block;
+    padding-bottom: 90px;
+}
+p{
+    font-size: 2.5rem;
+    color:rgb(208,214,218);
+}
+img{
+    width: 320px;
+    border-radius: 30px;
+}
